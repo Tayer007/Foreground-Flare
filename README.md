@@ -4,10 +4,19 @@ ForegroundFlare is an image analysis tool that highlights non-dominant colors in
 
 ## Installation
 
-1. Ensure you have Python 3 installed on your system.
-2. Download the `install_dependencies.bat` and `FFInstaller.exe` files.
-3. Run `install_dependencies.bat` as administrator to install the required Python packages.
-4. After the dependencies are installed, run `FFInstaller.exe` to install the application.
+1.  Ensure you have Python 3 installed on your system.
+2.  Download *all* the following files from the [latest release on GitHub](https://github.com/Tayer007/Foreground-Flare/releases/tag/foregroundflare):
+
+    *   `FFInstaller.exe` (The main application installer)
+    *   `install_dependencies.bat` (Installs required Python dependencies)
+    *   `FF_encrypted.exe` (Encrypted main program)
+    *   `loader.exe` (Loads the encrypted program)
+    *   `installer.nsi` (NSIS script to build the installer)
+
+    *All these files are required for the installation process. They must all be downloaded.*
+
+3.  Run `install_dependencies.bat` as administrator to install the required Python packages.
+4.  After the dependencies are installed, run `FFInstaller.exe` to install the application.
 
 ## Usage
 
@@ -15,19 +24,24 @@ After installation, launch ForegroundFlare from your start menu or desktop short
 
 ## Features
 
-- Analyzes images to identify the dominant color range
-- Highlights non-dominant colors for visual emphasis
-- Aids in object detection by isolating camouflaged elements
-- Facilitates anomaly detection by emphasizing unusual color patterns
+*   Analyzes images to identify the dominant color range
+*   Highlights non-dominant colors for visual emphasis
+*   Aids in object detection by isolating camouflaged elements
+*   Facilitates anomaly detection by emphasizing unusual color patterns
 
 ## Requirements
 
-- Windows operating system
-- Python 3.x
+*   Windows operating system
+*   Python 3.x
+
+## Additional Notes
+
+*   All files included in the release are necessary for the application to function correctly. Ensure all files are downloaded before installation
 
 ## Support
 
 For any issues or questions, please open an issue in the project repository or contact the developer.
 
 ## Contact
+
 [Contact me!](https://fourat.pythonanywhere.com/contact.html)
