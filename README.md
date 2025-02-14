@@ -8,10 +8,7 @@ ForegroundFlare is an image analysis tool that highlights non-dominant colors in
 2.  Download *all* the following files from the [latest release on GitHub](https://github.com/Tayer007/Foreground-Flare/releases/tag/foregroundflare):
 
     *   `FFInstaller.exe` (The main application installer)
-    *   `install_dependencies.bat` (Installs required Python dependencies)
-    *   `FF_encrypted.exe` (Encrypted main program)
-    *   `loader.exe` (Loads the encrypted program)
-    *   `installer.nsi` (NSIS script to build the installer)
+    *   Source code (zip) which includes the `install_dependencies.bat` batch file (Installs required Python dependencies)
 
     *All these files are required for the installation process. They must all be downloaded.*
 
