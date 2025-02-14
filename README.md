@@ -31,9 +31,6 @@ After installation, launch ForegroundFlare from your start menu or desktop short
 *   Windows operating system
 *   Python 3.x
 
-## Additional Notes
-
-*   All files included in the release are necessary for the application to function correctly. Ensure all files are downloaded before installation
 
 ## Support
 
