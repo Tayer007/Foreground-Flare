@@ -31,6 +31,8 @@ After installation, launch ForegroundFlare from your start menu or desktop short
 *   Windows operating system
 *   Python 3.x
 
+## [Additional Notes](pplx://action/followup)
+*   The app currently supports `.jpg` and `.jpeg` files; support for more file types like `.png` will be added in a future release along with additional functions.
 
 ## Support
 
