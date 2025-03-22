@@ -38,6 +38,12 @@ After installation, launch ForegroundFlare from your start menu or desktop short
 
 For any issues or questions, please open an issue in the project repository or contact the developer.
 
+## Copyright and License
+
+Copyright (C) 2025 Your Name
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
 ## Contact
 
 [Contact me!](https://fourat.pythonanywhere.com/contact.html)
